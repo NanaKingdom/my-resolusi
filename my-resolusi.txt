@@ -1,6 +1,8 @@
 - konsisten ibadah
 - konsisten ngoding
 - konsisten revisi
+ * p1
+ * p2
 - konsisten nulis
   * buku
   * novel
