@@ -1,0 +1,2 @@
+# my-resolusi
+first tried
