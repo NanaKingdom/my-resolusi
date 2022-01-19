@@ -1,5 +1,7 @@
-konsisten ibadah
-konsisten ngoding
-konsisten revisi
-konsisten nulis
-konsisten baca buku
+- konsisten ibadah
+- konsisten ngoding
+- konsisten revisi
+- konsisten nulis
+  * buku
+  * novel
+- konsisten baca buku
